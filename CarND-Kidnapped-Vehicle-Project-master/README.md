@@ -131,4 +131,12 @@ The things the grading code is looking for are:
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
+##### Sources used for this project:
+
+<sub>* http://stackoverflow.com/</sub>
+<sub>* https://github.com/</sub>
+<sub>* s-t2-p-kidnapped-vehi slack channel </sub>
+<sub>* https://github.com/priya-dwivedi/CarND</sub>
+<sub>* https://discussions.udacity.com/</sub>
+<sub> * Thanks to my mentor for all her wonderful suggestions and her help.</sub>
 
